@@ -33,7 +33,7 @@ RAG_Sanskrit_Gangeshwar
 |
 |- README.md
 |
-|
+|- requirement_min.txt
 
 
 **Installation Instructions**
